@@ -1,0 +1,25 @@
+{
+  "name": "mean-tutorial",
+  "version": "1.0.0",
+  "description": "mean stack tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipbrennan90/mean-tutorial.git"
+  },
+  "keywords": [
+    "mean",
+    "angular",
+    "node",
+    "mongo"
+  ],
+  "author": "Ian Brennan <ian@barbershop.io> (http://barbershop.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ipbrennan90/mean-tutorial/issues"
+  },
+  "homepage": "https://github.com/ipbrennan90/mean-tutorial#readme"
+}
